@@ -1,5 +1,7 @@
 # Affinity Designer feature wishlist
 
+We'd better start off by clarifying that we absolutly LOVE Affinity Designer. It's so fun to use. After using many many different vector graphics applications for over 20 years now, it's the most fun. It truly is - a concious pleaure to use it - every time.
+
 We're going to keep any notes about what we're missing in Affinity designer / that keeps us stuck using Adobe Illustrator for some things - _here_.
 
 (and we'll keep them in order of desire)
