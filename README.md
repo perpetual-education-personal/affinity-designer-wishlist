@@ -14,3 +14,6 @@ insert image and description. Basically, we'd like to be able to distort a box a
 - Free transform tool (perspective distort) [November 2017](https://forum.affinity.serif.com/index.php?/topic/49408-designer-free-transform-tool-perspective-distort/)
 - Workarounds for Distortion, Warp, or Perspective distort? [Feb 2018](https://forum.affinity.serif.com/index.php?/topic/55510-workarounds-for-distortion-warp-or-perspective-distort/)
 - Free Transform, Perspective & Warp Tools [April 2020](https://forum.affinity.serif.com/index.php?/topic/113642-free-transform-perspective-warp-tools/)
+
+## False possitives
+- You'll hear that you "can" _warp_ things - if you use Affinity Photo. And you _can_. But it will not be a clean vector. (we'll add a video)
